@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **saiyamhk@gmail.com📧**
 
-- 💡Fun Fact about me **Heard of Mobile Applications? I can developing them.📱**
+- 💡Fun Fact about me **Heard of Mobile Applications? I can develop them.📱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

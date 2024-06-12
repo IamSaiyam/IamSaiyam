@@ -2,7 +2,7 @@
 <img src = 'https://github.com/IamSaiyam/IamSaiyam/blob/main/assets/Banner.gif' alt="Header Banner"/>
 </p>
 <h1 align="center">Hey There 👋, I'm Saiyam Jain👨🏻‍💻</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaiyam&label=Profile%20views&color=0e75b6&style=flat" alt="iamsaiyam" /> </p>
 

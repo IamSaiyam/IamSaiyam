@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaiyam&label=Profile%20views&color=0e75b6&style=flat" alt="iamsaiyam" /> </p>
 
-- 🔭 I’m currently working on **Intelligent Document Parser💻**
+- 🔭 I’m currently working on **Agentic AI Applications💻**
 
-- 🌱 I’m currently learning **Generative AI🤖**
+- 🌱 I’m currently learning **Agentic AI/Generative AI🤖**
 
-- 💬 Ask me about **App Dev and Gen AI🧑‍💻**
+- 💬 Ask me about **Software Development and Generative AI🧑‍💻**
 
 - 📫 How to reach me **saiyamhk@gmail.com📧**
 
-- 💡Fun Fact about me **Heard of Mobile Applications? I can develop them.📱**
+- 💡Fun Fact about me **Heard of Intelligent Chatbots? I can develop them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
